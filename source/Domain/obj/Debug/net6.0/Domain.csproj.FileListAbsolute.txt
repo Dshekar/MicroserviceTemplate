@@ -1,0 +1,12 @@
+F:\dotnet\MicroserviceTemplate\source\Domain\bin\Debug\net6.0\Domain.deps.json
+F:\dotnet\MicroserviceTemplate\source\Domain\bin\Debug\net6.0\Domain.dll
+F:\dotnet\MicroserviceTemplate\source\Domain\bin\Debug\net6.0\Domain.pdb
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.dll
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\refint\Domain.dll
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\Domain.pdb
+F:\dotnet\MicroserviceTemplate\source\Domain\obj\Debug\net6.0\ref\Domain.dll
