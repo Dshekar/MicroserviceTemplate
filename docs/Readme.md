@@ -93,5 +93,19 @@ This template is licensed under the [MIT License](LICENSE).
 
 ---
 
+##docker command
+
+Docker build:
+docker build -t webapi-dotnet6-app .
+
+Docker Run:
+docker run -d --memory="300m" -p 8080:80 webapi-dotnet6-app
+
+Docker Stats: 
+docker stats <contianerId>
+
+Docker logs:
+docker logs -f <containerId>
+
 Feel free to extend and modify this template to suit your requirements.
 
