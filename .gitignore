@@ -1,0 +1,31 @@
+# .NET Core
+bin/
+obj/
+
+# ASP.NET Core
+wwwroot/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# .NET Core config folder
+.project.json
+project.lock.json
+project.fragment.lock.json
+
+# Rider config folder
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains
